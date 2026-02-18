@@ -80,7 +80,7 @@ Matplotlib | CSV Analysis | Dashboard Design | Reporting
 
 ## 📫 Connect With Me
 
-📧 cameron.bryant823@gmail.com  
+📧 Email: cameron.bryant823@gmail.com  
 🔗 LinkedIn: (http://www.linkedin.com/in/cameron-bryant-691302182)
 
 
